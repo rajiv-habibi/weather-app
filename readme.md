@@ -4,7 +4,7 @@
 - CSS 
 - JAVASCRIPT
 # Description
-Weather app using Geolocation API to detect user's location, No frameworks involved, Just pure HTML,CSS and JAVASCRIPT.
+Weather app using Geolocation API service to detect user's location.
 # API 
 openweathermap.org
 
